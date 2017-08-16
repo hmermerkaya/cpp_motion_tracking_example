@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Mon Aug 14 21:27:48 EEST 2017
+2.base=/home/hamit/Downloads/tango-examples-c-master/cpp_motion_tracking_example/app/build/intermediates/assets/debug
+5.file=/home/hamit/Downloads/tango-examples-c-master/cpp_motion_tracking_example/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=/home/hamit/Downloads/tango-examples-c-master/cpp_motion_tracking_example/app/build/intermediates/res/resources-debug.ap_
+6.file=/home/hamit/Downloads/tango-examples-c-master/cpp_motion_tracking_example/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_motion_tracking.xml
+2.set=ASSET
+4.base=/home/hamit/Downloads/tango-examples-c-master/cpp_motion_tracking_example/app/build/intermediates/assets/debug
+7.file=/home/hamit/Downloads/tango-examples-c-master/cpp_motion_tracking_example/app/build/intermediates/assets/debug/output.pcd
+7.set=ASSET
+count=8
+0.file=/home/hamit/Downloads/tango-examples-c-master/cpp_motion_tracking_example/app/build/intermediates/assets/debug/tango_logo.png
+5.base=/home/hamit/Downloads/tango-examples-c-master/cpp_motion_tracking_example/app/build/intermediates/res/resources-debug.ap_
+4.set=ASSET
+6.base=/home/hamit/Downloads/tango-examples-c-master/cpp_motion_tracking_example/app/build/intermediates/res/resources-debug.ap_
+1.file=/home/hamit/Downloads/tango-examples-c-master/cpp_motion_tracking_example/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/ic_launcher.png
+1.set=ANDROID_RESOURCE
+7.base=/home/hamit/Downloads/tango-examples-c-master/cpp_motion_tracking_example/app/build/intermediates/assets/debug
+2.file=/home/hamit/Downloads/tango-examples-c-master/cpp_motion_tracking_example/app/build/intermediates/assets/debug/grass.png
+6.set=ANDROID_RESOURCE
+0.base=/home/hamit/Downloads/tango-examples-c-master/cpp_motion_tracking_example/app/build/intermediates/assets/debug
+3.file=/home/hamit/Downloads/tango-examples-c-master/cpp_motion_tracking_example/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=/home/hamit/Downloads/tango-examples-c-master/cpp_motion_tracking_example/app/build/intermediates/res/resources-debug.ap_
+4.file=/home/hamit/Downloads/tango-examples-c-master/cpp_motion_tracking_example/app/build/intermediates/assets/debug/allPointCloudsnoVoxel.pcd
+0.set=ASSET

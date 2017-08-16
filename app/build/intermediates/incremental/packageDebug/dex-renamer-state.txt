@@ -1,0 +1,7 @@
+#Wed Aug 16 15:46:41 EEST 2017
+base.0=/home/hamit/Downloads/tango-examples-c-master/cpp_motion_tracking_example/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8e23a46ab4c56f2f6796fd7d0bc26ce92a3abac0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/hamit/Downloads/tango-examples-c-master/cpp_motion_tracking_example/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_248ce923e8dffb9a625d0144685e89df7e94582d/classes.dex
+base.1=/home/hamit/Downloads/tango-examples-c-master/cpp_motion_tracking_example/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_248ce923e8dffb9a625d0144685e89df7e94582d
+file.0=/home/hamit/Downloads/tango-examples-c-master/cpp_motion_tracking_example/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8e23a46ab4c56f2f6796fd7d0bc26ce92a3abac0/classes.dex

@@ -1,0 +1,87 @@
+[
+    {
+        "outputFile": "/home/hamit/Downloads/tango-examples-c-master/cpp_motion_tracking_example/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 56,
+                    "endOffset": 107
+                },
+                "from": {
+                    "file": "/home/hamit/Downloads/tango-examples-c-master/cpp_motion_tracking_example/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 645,
+                        "endColumn": 56,
+                        "endOffset": 697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 112,
+                    "endColumn": 69,
+                    "endOffset": 177
+                },
+                "from": {
+                    "file": "/home/hamit/Downloads/tango-examples-c-master/cpp_motion_tracking_example/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 702,
+                        "endColumn": 69,
+                        "endOffset": 767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 182,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 468
+                },
+                "from": {
+                    "file": "/home/hamit/Downloads/tango-examples-c-master/cpp_motion_tracking_example/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 473,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 628
+                },
+                "from": {
+                    "file": "/home/hamit/Downloads/tango-examples-c-master/cpp_motion_tracking_example/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

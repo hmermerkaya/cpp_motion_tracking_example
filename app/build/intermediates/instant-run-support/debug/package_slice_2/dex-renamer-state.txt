@@ -1,0 +1,4 @@
+#Mon Jul 31 15:34:23 EEST 2017
+base.0=/home/hamit/Downloads/tango-examples-c-master/cpp_motion_tracking_example/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/home/hamit/Downloads/tango-examples-c-master/cpp_motion_tracking_example/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex
